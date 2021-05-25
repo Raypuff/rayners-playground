@@ -1,0 +1,4 @@
+.headerContainer {
+  display:grid;
+  place-items: center;
+}

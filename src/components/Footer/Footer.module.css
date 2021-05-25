@@ -1,0 +1,4 @@
+.footerContainer {
+  display: grid;
+  place-items: center;
+}

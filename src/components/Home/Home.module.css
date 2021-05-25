@@ -1,0 +1,10 @@
+.homeContainer {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.mainText {
+  grid-column: 3 / 9;
+  color: blue;
+}
